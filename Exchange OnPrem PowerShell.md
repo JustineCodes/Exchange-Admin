@@ -22,13 +22,13 @@ Remove / add / change SMTP address
 
 Remove;
 ```
-Set-RemoteMailbox -Identity SamAccountName@pcgus.com -EmailAddresses @{remove="NAME@pcgus.com"}
+Set-RemoteMailbox -Identity SamAccountName@Domain.com -EmailAddresses @{remove="NAME@Domain.com"}
 ```
 Add;
 ```
-Set-RemoteMailbox -Identity SamAccountName@pcgus.com -EmailAddresses @{add="NAME@pcgus.com"}
+Set-RemoteMailbox -Identity SamAccountName@Domain.com -EmailAddresses @{add="NAME@Domain.com"}
 ```
 Set new primary SMTP
 ```
-Set-RemoteMailbox -Identity SamAccountName@pcgus.com -PrimarySmtpAddress NAME@pcgus.com
+Set-RemoteMailbox -Identity SamAccountName@Domain.com -PrimarySmtpAddress NAME@Domain.com
 ```

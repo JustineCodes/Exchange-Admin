@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "a360676c18c3f43e",
+    "type": "split",
+    "children": [
+      {
+        "id": "087924e33bf44d47",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "017efe96e0c59d9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e6ea96c2096bd15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3faa0ffe39dcb235",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b37c3ccd4646e60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "attr",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66d3bd4c135a3e0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b01f63376cd82999",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80e383bfd0cab229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "087924e33bf44d47",
+  "lastOpenFiles": [
+    "Generanl PowerShell notes.md",
+    "Exchange Online Notes.md",
+    "Excel.md",
+    "General Exchange Notes.md",
+    "Exchange Online PowerShell.md",
+    "Create Dynamic Distribution Group.md",
+    "Exchange OnPrem PowerShell.md",
+    "Exchange OnPrem Notes.md",
+    "Exchange AD Attributes.png",
+    "SafeLinks.md"
+  ]
+}
